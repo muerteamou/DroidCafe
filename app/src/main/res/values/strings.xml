@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="intro_text">Postresroid</string>
+    <dimen name="text_heading">24sp</dimen>
+    <dimen name="padding_regular">10dp</dimen>
+
+    <string name="choose_dessert">Choose a dessert</string>
+
+    <string name="donut">Donuts are glazed and sprinkled with candy</string>
+
+    <dimen name="padding_wide">35dp</dimen>
+
+    <string name="ice_cream">Ice cream sandwiches have chocolate wafers and vanila filling</string>
+
+    <string name="froyo">Froyo is premium self-serve frozen yogurt</string>
+
+    <string name="donut_order">You ordered a donut.</string>
+    <string name="icecream_order">You ordered an ice cream.</string>
+    <string name="froyo_order">You ordered a FroYo.</string>
+
+    <dimen name="margin_top">24dp</dimen>
+    <dimen name="margin_botton">6dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <string name="choose_delivey">Choose a delivery method: </string>
+
+    <string name="same_day">Same day messenger service</string>
+    <string name="next_day">Next day ground delivery</string>
+    <string name="pickup">Pick up</string>
+
+    <string name="action_order_message">You selected Order</string>
+    <string name="action_status_message">You selected Status</string>
+    <string name="action_favorites_message">You selected Favorites</string>
+    <string name="action_contact_messaage">You selected Contact</string>
+
+</resources>
